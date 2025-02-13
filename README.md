@@ -69,7 +69,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramos.emilyvi@gmail.com&su=Assunto&body=Mensagem" target="_blank">
       <img width="30" src="https://img.icons8.com/color/48/gmail-new.png">
     </a>
-    <a href = "https://www.instagram.com/emiis_ramos/">
+    <a href = "https://www.instagram.com/samuel.oliveira39/">
       <img width="30" src="https://img.icons8.com/color/48/instagram-new--v1.png">
     </a>
     <a href = "https://www.linkedin.com/in/emily-ramos-581025331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
