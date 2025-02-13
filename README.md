@@ -5,11 +5,6 @@
 
 ---
 
-<div align="center">
-  <img width="500px"
-    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6a284djRtY2pmbHB5bnB2eHlhZ2h6djljbmZqbG5penl2MjFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Od6XmbZWLy5jHMBus4/giphy.gif"
-  />
-</div>
 
 ### 🤖 Linguagens e Tecnologias
 
